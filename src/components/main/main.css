@@ -1,0 +1,8 @@
+.main {
+    align-items: start;
+    display: flex;
+    width: 375px;
+    height: 667px;
+    flex-flow: column;
+    border: 1px black solid;
+}

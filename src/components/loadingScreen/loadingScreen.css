@@ -1,0 +1,21 @@
+.loadingScreen {
+    align-items: center;
+    display: flex;
+    width: 375px;
+    height: 667px;
+    background-color: #2459FF;
+    background-size: 127%;
+    background-position-x: -60px;
+    background-position-y: -135px;
+    background-image: url('../../../public/img/loadingScreen/letteringBack.png');
+    flex-flow: column;
+}
+img.cat{
+    width: 375px;
+    margin-top: 90px;
+}
+img.label{
+
+    width: 65%;
+    margin-top: -20px;
+}

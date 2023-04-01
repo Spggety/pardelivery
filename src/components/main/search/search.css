@@ -1,0 +1,30 @@
+.search {
+    width: 100%;
+    height: 73px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    background-color: #F1F3FB;
+}
+.ic_Search{
+    display: flex;
+    margin-right: -30px;
+    z-index: 100;
+}
+
+.search input {
+    background: #FFFFFF;
+    height: 46px;
+    width: 268px;
+    margin-left: -24px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #979797;
+    border-radius: 1e+06px;
+    padding-left: 37px;
+    font-size: 15px;
+}
+.search i{
+    font-size: 20px;
+}

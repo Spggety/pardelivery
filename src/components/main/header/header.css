@@ -1,0 +1,21 @@
+header {
+    align-items: center;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    padding: 18px;
+    width: 320px;
+    margin: 23px 9px 0px  9px ;
+}
+
+header i{
+    font-size: 20px;
+}
+
+.ic_Bag{
+    
+    color: white;
+    background-color: #2459FF;
+    border: 7px #2459FF solid;
+    border-radius: 10px;
+}
